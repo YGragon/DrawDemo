@@ -15,7 +15,9 @@ import com.hencoder.hencoderpracticedraw1.model.Data;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * 参考这位大神：https://github.com/Jucongyuan/PracticeDraw1
+ */
 public class Practice10HistogramView extends View {
 
     private static final String TAG = "Practice10HistogramView";
